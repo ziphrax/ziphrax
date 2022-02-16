@@ -12,7 +12,7 @@ Outside of my day job, I enjoy both playing and developing computer games. I use
 
 I have an Ocullus quest 2 and so obviously had to have a play with that and so in VR, I've a few experiments I've thrown together too. You can find some short (very amature) videos of those over on my youtube channel. 
 
-![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)(https://www.youtube.com/channel/UCm41epbgGsYXm2EDYCavBNQ)
 
 # My Main Languages and Tools
 
