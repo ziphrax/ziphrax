@@ -10,7 +10,7 @@ Now, with over a decade of professional experience, I'm leading a team helping t
 
 Outside of my day job, I enjoy both playing and developing computer games. I used to compete in competitive esports, where practice, dedication and teamwork were key to success. Currently I have Unity engine game I'm working on where you play the role of a special forces agent attempting to sneak into the enemy base and complete your mission. Influenced by Metal Gear Solid I'm hoping it will bring a hint of nostalgia to many fans of the series. 
 
-I have an Ocullus Quest 2 and so obviously had to have a play with that and so in VR, I've a few experiments I've thrown together too. You can find some short (very amature) videos of those over on my youtube channel. 
+I have an Oculus Quest 2 and so obviously had to have a play with that and so in VR, I've a few experiments I've thrown together too. You can find some short (very amature) videos of those over on my youtube channel. 
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCm41epbgGsYXm2EDYCavBNQ)
 
